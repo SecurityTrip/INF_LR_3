@@ -97,4 +97,5 @@ int main()
         r = frepeat();
         m.clear();
     }
+    return 0;
 }
